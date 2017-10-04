@@ -1,2 +1,3 @@
 # hello-world
-Practice
+
+Yeah so I'm Sophia and GitHub is confusing.
